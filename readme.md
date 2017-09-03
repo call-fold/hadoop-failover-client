@@ -4,6 +4,10 @@
 
 #### A new failover to cache active namenode index to avoid trying to connect to each namenode by hashcode
 
+#### base
+
+ * hadoop 2.7.3
+
 #### requirement
 setting in hdfs-site.xml
 ```xml
